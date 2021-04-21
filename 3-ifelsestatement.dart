@@ -18,6 +18,8 @@ void main() {
 
   // }
 
+  //Ternary operator
+
   bool public = true;
   var school = public ? "Om Mishra" : "Deepam";
   print(school);
